@@ -62,46 +62,28 @@ MRI is a critical imaging modality for diagnosing internal body structures. Howe
 
 ## 📊 Visuals
 
+### Input 3D image
 ![Input 3D image](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/3D.png)
 
+### 3D to 2D image
 ![3D to 2D image](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/Data.jpg)
 
+### System Design  
 ![System Design](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/System%20Design.jpg)
 
-![FFC-DCR Block Architecture](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/DCR%20archictecture.png)
-
-![Noisy Input](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/Noisy%20CNN%20with%20DCR%20input.jpg)
-
-![Reconstructed Output](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/NOisy%20unet%20with%20dcr%20result.jpg)
-
-![Qualitative Metrics](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/Final%20Comparitive%20study.jpg)
-
-
-
-
-
-### Input 3D image
-![App Screenshot](https://github.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/blob/master/Output/3D.png?raw=true)
-
-### 3D to 2D image
-![App Screenshot](https://github.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/blob/master/Output/Data.jpg?raw=true)
-
-### System Design  
-![System Design](https://github.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/blob/master/Output/System%20Design.jpg?raw=true)
-
 ### FFC-DCR Block Architecture  
-![DCR Architecture](https://github.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/blob/master/Output/FFC-DCR%20archictecture.png?raw=true)
+![FFC-DCR Block Architecture](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/FFC-DCR%20archictecture.png)
 
 ### Noisy Input vs Reconstructed Output  
 **Input**  
-![Noisy Input](https://github.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/blob/master/Output/Noisy%20Input.jpg?raw=true)
+![Noisy Input](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/Noisy%20Input.jpg)
 
 **Output**  
-![Reconstructed Output](https://github.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/blob/master/Output/Noisy%20output.jpg?raw=true)
+![Reconstructed Output](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/Noisy%20Output.jpg)
 
 ## Qualitative Metrics
 The qualitative metrics (PSNR - Peak Signal To Noise Ratio, SSIM - Structural Similarity Index, MSE - Mean Squared Error, and Inference Time) obtained with each model are presented in this section:
-![Qualitative Metrics](https://github.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/blob/master/Output/Final%20Comparitive%20study.jpg?raw=true)
+![Qualitative Metrics](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/Final%20Comparitive%20study.jpg)
 
 ---
 
