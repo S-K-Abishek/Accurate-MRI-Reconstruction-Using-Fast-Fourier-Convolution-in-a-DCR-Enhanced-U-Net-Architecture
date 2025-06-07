@@ -62,6 +62,24 @@ MRI is a critical imaging modality for diagnosing internal body structures. Howe
 
 ## 📊 Visuals
 
+![Input 3D image](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/3D.png)
+
+![3D to 2D image](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/Data.jpg)
+
+![System Design](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/System%20Design.jpg)
+
+![FFC-DCR Block Architecture](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/DCR%20archictecture.png)
+
+![Noisy Input](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/Noisy%20CNN%20with%20DCR%20input.jpg)
+
+![Reconstructed Output](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/NOisy%20unet%20with%20dcr%20result.jpg)
+
+![Qualitative Metrics](https://raw.githubusercontent.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/main/Output/Final%20Comparitive%20study.jpg)
+
+
+
+
+
 ### Input 3D image
 ![App Screenshot](https://github.com/S-K-Abishek/Accurate-MRI-Reconstruction-Using-Fast-Fourier-Convolution-in-a-DCR-Enhanced-U-Net-Architecture/blob/master/Output/3D.png?raw=true)
 
